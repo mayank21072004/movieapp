@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "338519378841",
+    "project_id": "week3-moviesapp",
+    "storage_bucket": "week3-moviesapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:338519378841:android:794552e7846e794646a108",
+        "android_client_info": {
+          "package_name": "com.example.week3_movies_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "338519378841-69e64r3f45fdcs5p0817rn29dng6hle3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBX895S4fHc-d5d6aN0bD7kbYMlrXzRNcM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "338519378841-69e64r3f45fdcs5p0817rn29dng6hle3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
